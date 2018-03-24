@@ -22,7 +22,7 @@ Sign in Google: `firebase login`
 
 Initialize a host firebase: `firebase init`
 
-Deploy application to host: `firebase deploy`
+Deploy the application to host: `firebase deploy`
 
 Disable the Firebase host: `firebase hosting:disable`
 
