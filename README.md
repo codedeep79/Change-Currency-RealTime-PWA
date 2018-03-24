@@ -3,9 +3,11 @@ Build application PWA and deploy to Firebase host
 
 ### Usage:
 
-Install dependencies: npm install 
-Build production: npm run build
-Run at localhost: npm start
+Install dependencies: `npm install`
+
+Build production: `npm run build`
+
+Run at localhost: `npm start`
 
 ### Deploy application to Firebase host:
 
