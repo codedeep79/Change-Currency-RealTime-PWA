@@ -24,6 +24,8 @@ Initialize a host firebase: `firebase init`
 
 Deploy application to host: `firebase deploy`
 
+Disable the Firebase host: `firebase hosting:disable`
+
 ---------------------------------------------------------
 ### Document:
 Build products with realtime feature: [https://pusher.com/](https://pusher.com/)
