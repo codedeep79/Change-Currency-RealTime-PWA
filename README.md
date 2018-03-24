@@ -11,10 +11,14 @@ Run at localhost: `npm start`
 
 ### Deploy application to Firebase host:
 
-```
-npm install -g firebase-tools
-firebase init
-firebase deploy
-```
+Install Firebase tool: `npm install -g firebase-tools`
+
+Sign in Google: `firebase login`
+
+Initialize a host firebase: `firebase init`
+
+Deploy application to host: `firebase deploy`
+
+
 You can access application without internet
 Link demo: [https://shop24-hcmc.firebaseapp.com/](https://shop24-hcmc.firebaseapp.com/)
